@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'auth_example',
     'rest_framework',
-    #'corsheaders',    
+    'drf_yasg',        
 ]
 
 SIMPLE_JWT = {
